@@ -2,7 +2,7 @@ package softserve.academy.simplecrud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-/*drgdrgergedrgdsgsdgsdfgsdfg*/
+/* Pull-request comment*/
 @SpringBootApplication
 public class SimplecrudApplication {
 
