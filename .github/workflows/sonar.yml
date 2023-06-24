@@ -23,6 +23,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Show pull message
+        branch_1
+        run: "echo Second pull message!"
+
         run: "echo First pull message!"
       - uses: actions/checkout@v3
         with:
