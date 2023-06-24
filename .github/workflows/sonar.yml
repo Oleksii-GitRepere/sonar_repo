@@ -1,4 +1,4 @@
-ame: first_ci_cd
+name: sonar_worflw_1
 on:
   pull_request:
     types: [opened, reopened]
